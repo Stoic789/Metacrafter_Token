@@ -31,6 +31,9 @@ To interact with the MyToken contract, you need the following:
    - Call the `burn` function, passing the sender's address and the token value to be burned as parameters.
    - The function will check if the sender's balance is greater than or equal to the specified value.
    - If the condition is met, the `TotalSupply` will be decreased by the specified value, and the sender's balance will also be decreased.
+     
+## Author
+  - Subhadip Mondal
 
 ## License
 
